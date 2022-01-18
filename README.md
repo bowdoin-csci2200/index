@@ -1,5 +1,5 @@
 
-# Algorithms 
+# csci2200, Algorithms, Bowdoin College
 
 ---
 
